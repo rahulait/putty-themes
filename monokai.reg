@@ -1,0 +1,36 @@
+Windows Registry Editor Version 5.00
+
+; Original place from where this registry-file is taken:-
+; https://gist.github.com/GDvalle/4187089
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\monokai]
+"Colour21"="255,255,255"
+"Colour20"="245,222,179"
+"Colour19"="200,240,240"
+"Colour18"="0,217,217"
+"Colour17"="179,146,239"
+"Colour16"="174,129,255"
+"Colour15"="122,204,218"
+"Colour14"="102,217,239"
+"Colour13"="209,202,137"
+"Colour12"="230,219,116"
+"Colour11"="157,197,75"
+"Colour10"="166,226,46"
+"Colour9"="221,66,120"
+"Colour8"="249,38,114"
+"Colour7"="85,85,85"
+"Colour6"="0,0,0"
+"Colour5"="255,128,0"
+"Colour4"="0,0,0"
+"Colour3"="39,40,34"
+"Colour2"="39,40,34"
+"Colour1"="248,248,242"
+"Colour0"="248,248,242"
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000
